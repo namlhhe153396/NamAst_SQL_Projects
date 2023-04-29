@@ -1,0 +1,60 @@
+/*We want to reward our users who have been around the longest.  
+
+
+/*What day of the week do most users register on?
+
+
+/*version 2*/
+
+
+/*We want to target our inactive users with an email campaign.
+
+
+/*We're running a new contest to see who can get the most likes on a single photo.
+WHO WON??!!*/
+
+
+
+/*version 2*/
+
+
+
+/*Our Investors want to know...
+How many times does the average user post?*/
+/*total number of photos/total number of users*/
+
+
+
+/*user ranking by postings higher to lower*/
+
+
+
+
+/*Total Posts by users (longer versionof SELECT COUNT(*)FROM photos) */
+
+
+
+/*total numbers of users who have posted at least one time */
+
+
+
+/*A brand wants to know which hashtags to use in a post
+
+
+
+/*We have a small problem with bots on our site...
+
+
+
+/*We also have a problem with celebrities
+
+
+/*Mega Challenges
+
+
+/*Find users who have ever commented on a photo*/
+
+
+
+/*Are we overrun with bots and celebrity accounts?
+Find the percentage of our users who have either never commented on a photo or have commented on photos before*/
